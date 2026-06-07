@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema utama aplikasi menggunakan Material 3 -->
+    <style name="Theme.Titipku" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Anda bisa menambahkan kustomisasi warna di sini jika diperlukan -->
+        <item name="colorPrimary">@color/purple_500</item>
+    </style>
+</resources>
